@@ -1,3 +1,3 @@
 # GraphQL
 
-Hosted on: [graphql.octobers.xyz](http://graphql.octobers.xyz/)
+Hosted on: https://wegenfelt.github.io/graphql/
